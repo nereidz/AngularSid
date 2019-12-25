@@ -1,2 +1,0 @@
-# AngularSid
-Created with CodeSandbox
